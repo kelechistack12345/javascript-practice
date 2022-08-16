@@ -1,6 +1,6 @@
  function elsestatement(val){
 
-    var result = ""
+     // var result = ""
     if(val > 20){
         result = "bigger than 20"
     }

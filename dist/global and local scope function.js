@@ -2,7 +2,7 @@ var outerwear ="T-shirt";
 
 function myoutfit(){
     
-    var outerwear ="sweater";
+     var outerwear ="sweater";
     return outerwear;
 
 }

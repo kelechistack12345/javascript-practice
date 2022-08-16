@@ -1,14 +1,21 @@
-
-
-switch(expression) {
-    case x:
-      // code block
+function switchcases(val){
+switch(val) {
+    case 1:
+      answer = "alpha"
       break;
-    case y:
-      // code block
+    case 2:
+      answer = "beta"
       break;
-    default:
-      // code block
+    case 3:
+      answer = "gamma"
+    case 4:
+        answer = "delta"
   }
+
+  return answer;
+}
+
+
+console.log(switchcases(4));
 
   
