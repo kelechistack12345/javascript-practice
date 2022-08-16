@@ -4,3 +4,5 @@ var mydata =myarray[1]
 
 console.log(mydata)
 
+console.log(myarray)
+

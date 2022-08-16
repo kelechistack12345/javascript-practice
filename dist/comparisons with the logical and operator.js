@@ -7,3 +7,5 @@ function testlogicaland(val){
     return "no";
 }
 console.log(testlogicaland(30));
+
+
