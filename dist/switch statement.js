@@ -16,6 +16,6 @@ switch(val) {
 }
 
 
-console.log(switchcases(4));
+console.log(switchcases(2));
 
   

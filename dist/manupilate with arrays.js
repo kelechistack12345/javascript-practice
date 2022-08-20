@@ -5,6 +5,8 @@ var myarray =[1,2,3]
 var removedfromarray = myarray.pop(1)
 
 console.log(removedfromarray)
+console.log(myarray)
+
 
 
 // to check the length of arrays

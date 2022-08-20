@@ -1,4 +1,18 @@
-function isless(a,b){
-    return a < b;
+var mystorage = {
+  "car":{
+    "inside":{
+        "glove box":"maps",
+        "passanger seat":"crumbs"
+
+    },
+    "outside":{
+        "truck":"jack"
+    }
+
+  }  
+
 }
-console.log(isless(10,15));
+
+var gloveboxcontents= mystorage.car.inside["glove box"];
+
+console.log(gloveboxcontents);

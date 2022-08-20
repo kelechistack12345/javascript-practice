@@ -33,4 +33,4 @@
 
 
 
- }console.log(chaintoswitch(2))
+ }console.log(chaintoswitch(99))
